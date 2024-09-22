@@ -10,9 +10,8 @@ body{
     margin-left: 500px;
     margin-top: 200px;
     background-color: rgb(234, 88, 149);
-    border-radius: 7px;
-    border: 5px;
-    border-color: brown;
+    border-radius: 18px;
+    border: 4px solid #c00e0e;
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
 }
 
@@ -23,8 +22,9 @@ body{
     height: 150px;
     margin-top: 80px;
     background-color:rgb(61, 191, 85);
-    border-radius: 7px;
+    border-radius: 15px;
     top: 10px;
+    border: 2px solid #030a13;
     /* font-family: 'Times New Roman', Times, serif; */
 }
 
@@ -36,9 +36,10 @@ body{
     margin-top: 40px;
     background-color:rgb(25, 130, 228);
     align-items: center;
-    border-radius: 7px;
+    border-radius: 15px;
     padding-top: 5px;
     color: brown;
+    border: 2px solid #5a4be2;
     font-family: 'Times New Roman', Times, serif;
 
 }
